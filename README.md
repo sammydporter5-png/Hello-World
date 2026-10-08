@@ -19,11 +19,11 @@ The tools and technologies I have experience working with include:
 
 This repository includes:
 
-1. `README.md` – An overview of my repository.
-2. **Project File 1** – A sample of my coursework.
-3. **Project File 2** – An additional example of my work.
+1. README.md – An overview of my repository.
+2. samporter_eow6.py – A Python programming assignment.
+3. Class Exercise - Accrual Accounting – An accounting exercise demonstrating financial concepts.
 
-*The sample file descriptions will be updated to reflect the actual uploaded projects.*
+
 
 ## How to Run Program
 
